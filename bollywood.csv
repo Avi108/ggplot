@@ -1,0 +1,53 @@
+Movie,Hero,Rdate,Ocollection,Wcollection,Fwcollection,Tcollection,Verdict
+Dilwale,SRK,18-12-2015,21,65.09,102.65,148.72,Hit
+Bajirao Mastani,Ranveer,18-12-2015,12.8,46.77,86.15,184.16,Hit
+Hate Story 3,Sharman,04-12-2015,9.72,26.82,42.2,51.69,Super Hit
+Tamasha,Ranbir,27-11-2015,10.94,38.23,53.46,67.26,Average
+Prem Ratan Dhan Payo,Salman,12-11-2015,40.35,129.77,172.82,210.16,Hit
+Main Aur Charles,Randeep,30-10-2015,1,2,5,5,Flop
+Titli,Ranvir_Shorey,30-10-2015,0.2,1.05,2,2,Flop
+Guddu Ki Gun,Kunal,30-10-2015,1,2,2,2,Flop
+Shaandaar,Shahid,22-10-2015,13.1,33.51,40.5,43.13,Flop
+Pyaar Ka Punchnama 2,Kartik_Aaryan,16-10-2015,6.8,22.75,39.25,63.95,Super Hit
+Jazbaa,Irrfan,09-10-2015,4.23,15.24,21.58,25.23,Average
+Singh Is Bliing,Akshay_Kumar,02-10-2015,20.67,54.44,77.6,89.67,Hit
+Talvar,Irrfan,02-10-2015,2.5,9.25,15.55,30.17,Hit
+Kis Kisko Pyaar Karoon,Kapil_Sharma,25-09-2015,10.15,28.81,43.5,49.33,Hit
+Bhaag Johnny,Kunal,25-09-2015,0.75,NA,2,2,Flop
+Katti Batti,Imran_Khan,18-09-2015,5.28,16.27,22.58,24.41,Flop
+Hero,Sooraj,11-09-2015,6.85,21.2,30.87,33.37,Average
+Welcome Back,John_Abraham,04-09-2015,14.35,51,74.02,96.17,Average
+Phantom,Saif_Ali,28-08-2015,8.46,33.18,47.4,54.19,Average
+Manjhi The Mountain Man,Nawazuddin,21-08-2015,1.4,6.45,10.17,11.92,Average
+All Is Well,Abhishek_Bachchan,21-08-2015,2.9,11.91,NA,15.91,Flop
+Brothers,Akshay_Kumar,14-08-2015,15.2,52.08,72.6,82.47,Average
+Bangistan,Riteish,07-08-2015,1,3.77,5.49,5.49,Flop
+Drishyam,Ajay_Devgn,31-07-2015,8.05,30.03,46.28,76.48,Hit
+Bajrangi Bhaijaan,Salman,17-07-2015,27.25,102.6,184.62,320.34,Super Hit
+Guddu Rangeela,Arshad_Warsi,03-07-2015,1.51,5.82,8.77,8.77,Flop
+Miss Tanakpur Haazir Ho,Rahul_Bagga,26-06-2015,0.31,1.03,1.03,1.28,Flop
+ABCD - Any Body Can Dance 2,Varun_Dhawan,19-06-2015,14.3,46,71.78,104.44,Average
+Hamari Adhuri Kahani,Emraan_Khan,12-06-2015,5.04,16.49,27.12,37.57,Average
+Dil Dhadakne Do,Ranveer,05-06-2015,10.53,37.05,57,76.88,Average
+Welcome 2 Karachi,Jackky_Bhagnani,28-05-2015,1.68,5.4,8,8,Flop
+Tanu Weds Manu Returns,R.Madhavan,22-05-2015,8.85,38.1,70,150.77,Super Hit
+Bombay Velvet,Ranbir,15-05-2015,5.2,16.1,22.27,23.67,Flop
+Piku,Amitabh_Bachchan,08-05-2015,5.32,25.22,41.4,79.92,Hit
+Kuch Kuch Locha Hai,Ram_Kapoor,08-05-2015,0.75,3,4,4,Flop
+Gabbar Is Back,Akshay_Kumar,01-05-2015,13.05,40,56.75,86,Average
+Mr. X,Emraan_Hashmi,17-04-2015,4.5,13.99,22.75,24.79,Flop
+Ek Paheli Leela,Jay_Bhanushali,10-04-2015,5.3,15.85,24,26.57,Average
+Dilliwaali Zaalim Girlfriend,Jackie_Shroff,20-03-2015,0.6,1.75,2.5,2.5,Flop
+NH10,Neil_Bhoopalam,13-03-2015,3.35,13.3,20.5,32.1,Hit
+Dirty Politics,Jackie_Shroff,06-03-2015,1.3,3.94,7,7,Flop
+Dum Laga Ke Haisha,Ayushman_Khurana,27-02-2015,1.1,6,10.65,10.65,Hit
+Ab Tak Chhappan 2,Nana_Patekar,27-02-2015,1.25,4.5,5.95,6.65,Flop
+Badlapur,Varun_Dhawan,20-02-2015,7.12,24,37,51.4,Hit
+Roy,Ranbir,13-02-2015,10.4,28.68,41.77,44.5,Average
+Shamitabh,Amitabh_Bachchan,06-02-2015,3.5,13.25,19,22.45,Flop
+Khamoshiyan - Silences Have Secrets,Gurmeet_Chaudhary,30-01-2015,1.92,6.67,11.3,14.02,Average
+Hawaizaada,Ayushman_Khurana,30-01-2015,0.57,2,3,3,Flop
+Baby,Akshay_Kumar,23-01-2015,9.3,35.9,63.82,95.5,Average
+Dolly Ki Doli,Rajkummar_Rao,23-01-2015,2,10.3,18.66,19.26,Flop
+Alone,Karan_Singh,16-01-2015,3.5,14,22,22,Flop
+Tevar,Arjun_Kapoor,09-01-2015,7.05,22.05,35,39,Flop
